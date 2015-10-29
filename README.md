@@ -17,5 +17,5 @@ The ultimate list of awesome (and still not) government sites and resources. Ins
 * [government.ru](http://government.ru) - The Russian Government
 * [kremlin.ru](http://kremlin.ru) - Official Internet Resources of the President of Russia
 * [minsvyaz.ru](http://www.minsvyaz.ru/en/) - Ministry of Telecom and Mass Communications of the Russian Federation
-* [mvd.ru] (https://mvd.ru) - The ministry of internal affairs of the Russian Federation
+* [mvd.ru] (https://en.mvd.ru) - The ministry of internal affairs of the Russian Federation
 
